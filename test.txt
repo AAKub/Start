@@ -1,2 +1,3 @@
 test
 line2
+A new line in our file
