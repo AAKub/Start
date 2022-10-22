@@ -2,4 +2,8 @@ test
 line2
 A new line in our file
 
+<<<<<<< HEAD
 This line is here to show how merging works.
+=======
+Hello World!!!
+>>>>>>> hello_world
